@@ -1,0 +1,31 @@
+_repo: Memorias-de-un-vagon-de-ferrocarril_62840
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zamacois, Eduardo
+    aliases:
+    - Zamacois, E. (Eduardo)
+    - Quintana, Eduardo Zamacois y
+    birthdate: 1873
+    deathdate: 1971
+    gutenberg_agent_id: '26175'
+    url: http://www.gutenberg.org/2009/agents/26175
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Eduardo_Zamacois
+    - https://en.wikipedia.org/wiki/Eduardo_Zamacois
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62840'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stories'
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- 20th century'
+- GITenberg
+title: Memorias de un vagón de ferrocarril
+url: http://www.gutenberg.org/ebooks/62840
