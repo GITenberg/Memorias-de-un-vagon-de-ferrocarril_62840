@@ -1,5 +1,8 @@
 _repo: Memorias-de-un-vagon-de-ferrocarril_62840
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62840-h/images/cover.jpg
 creator:
   author:
     agent_name: Zamacois, Eduardo
@@ -14,6 +17,8 @@ creator:
     - https://es.wikipedia.org/wiki/Eduardo_Zamacois
     - https://en.wikipedia.org/wiki/Eduardo_Zamacois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62840#Memorias-de-un-vagon-de-ferrocarril
 gutenberg_issued: '2020-08-03'
 gutenberg_type: Text
 identifiers:
